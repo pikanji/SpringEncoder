@@ -1,0 +1,6 @@
+# generated files
+*bin/
+
+# local files
+.DS_store
+*~
